@@ -1,4 +1,4 @@
-<h2> Hi, I'm Abderrahim <img src="./clawd.gif" width="50"></h2>
+<h2> Hi, I'm Abderrahim <img src="./clawd.gif" width="120"></h2>
 
 Software Engineer with 11+ years of experience building production systems across **healthcare**, **publishing**, **government**, and **e-commerce**. I specialize in **AI & Automation**, **Drupal architecture**, and **full-stack development**.
 
