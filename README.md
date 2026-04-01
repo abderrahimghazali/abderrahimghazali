@@ -1,8 +1,64 @@
 <h2> Hi, I'm Abderrahim <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-I am a Full-stack developer specializing in **Drupal**, **DevOps**, **LangChain**, and **NextJS**. You can support my work with a few bucks [here](https://github.com/sponsors/abderrahimghazali) and enjoy the perks ;)
+Software Engineer with 11+ years of experience building production systems across **healthcare**, **publishing**, **government**, and **e-commerce**. I specialize in **AI & Automation**, **Drupal architecture**, and **full-stack development**.
 
-Need web development/automation/AI expertise? I can help your organization build scalable solutions and tackle complex challenges.\
-Reach me at: `ghazali.abderrahim1@gmail.com`
+I build autonomous agents, RAG pipelines, Drupal platforms serving 500K+ users, and open-source tools for developers.
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/Ghazalidotdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahim-ghazali-5121b855) ![](https://komarev.com/ghpvc/?username=abderrahimghazali&style=pixel)
+### What I work on
+
+**AI & Automation** &mdash; Autonomous agent systems, RAG pipelines, semantic search, LangChain, n8n workflows
+
+**Drupal** &mdash; Custom modules, migration strategies, performance optimization &mdash; deep expertise since 2014
+
+**E-commerce** &mdash; Sylius 2.x plugins (loyalty, upsells, popups, workflow automation)
+
+**Developer Tools** &mdash; Claude Code plugins, CLI tools, MCP servers
+
+### Featured projects
+
+| Project | Description |
+|---------|-------------|
+| [drupal-boost](https://github.com/abderrahimghazali/drupal-boost) | The most comprehensive Drupal 11 toolkit for Claude Code |
+| [claude-hivemind](https://github.com/abderrahimghazali/claude-hivemind) | Inter-session communication for Claude Code instances |
+| [sylius-loyalty-plugin](https://github.com/abderrahimghazali/sylius-loyalty-plugin) | Points-based rewards system for Sylius 2.x |
+| [sylius-workflow-plugin](https://github.com/abderrahimghazali/sylius-workflow-plugin) | Visual marketing automation engine for Sylius 2.x |
+| [sylius-popup-plugin](https://github.com/abderrahimghazali/sylius-popup-plugin) | Exit-intent & engagement popups for Sylius 2.x |
+| [sylius-upsell-plugin](https://github.com/abderrahimghazali/sylius-upsell-plugin) | Post-purchase upsell & cross-sell for Sylius 2.x |
+| [drupal-issue-md](https://github.com/abderrahimghazali/drupal-issue-md) | Convert Drupal.org issues to LLM-friendly Markdown |
+| [mailfleet](https://github.com/abderrahimghazali/mailfleet) | Email campaign management with AWS SES integration |
+
+### Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white)
+
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white)
+![Sylius](https://img.shields.io/badge/Sylius-1EB2A6?logo=symfony&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+
+### GitHub stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abderrahimghazali&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimghazali&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+Open to consulting, contract work, and technical partnerships. You can also [sponsor my work](https://github.com/sponsors/abderrahimghazali).
+
+[![Email](https://img.shields.io/badge/Email-ghazali.abderrahim1@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:ghazali.abderrahim1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abderrahimghazali.github.io-000?logo=astro&logoColor=white)](https://abderrahimghazali.github.io/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/Ghazalidotdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahim-ghazali-5121b855)
+[![Drupal.org](https://img.shields.io/badge/Drupal.org-gabderrahim-0678BE?logo=drupal&logoColor=white)](https://www.drupal.org/u/gabderrahim)
+![](https://komarev.com/ghpvc/?username=abderrahimghazali&style=pixel)
