@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1 -8 20 26" width="120" height="156">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1 0 20 26" width="120" height="156">
+  <g transform="translate(0, 8)">
   <defs>
     <style>
       /* Slow, contemplative swaying */
@@ -125,5 +126,6 @@
       <rect id="right-eye" x="11" y="7" width="1" height="2"/>
     </g>
     
+  </g>
   </g>
 </svg>
