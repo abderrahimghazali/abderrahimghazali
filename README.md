@@ -47,10 +47,11 @@ I build autonomous agents, RAG pipelines, Drupal platforms serving 500K+ users, 
 
 ### GitHub stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abderrahimghazali&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimghazali&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abderrahimghazali&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abderrahimghazali&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=abderrahimghazali&hide_border=true" alt="GitHub Streak" />
+</picture>
 
 ---
 
