@@ -14,19 +14,6 @@ I build autonomous agents, RAG pipelines, Drupal platforms serving 500K+ users, 
 
 **Developer Tools** &mdash; Claude Code plugins, CLI tools, MCP servers
 
-### Featured projects
-
-| Project | Description |
-|---------|-------------|
-| [drupal-boost](https://github.com/abderrahimghazali/drupal-boost) | The most comprehensive Drupal 11 toolkit for Claude Code |
-| [claude-hivemind](https://github.com/abderrahimghazali/claude-hivemind) | Inter-session communication for Claude Code instances |
-| [sylius-loyalty-plugin](https://github.com/abderrahimghazali/sylius-loyalty-plugin) | Points-based rewards system for Sylius 2.x |
-| [sylius-workflow-plugin](https://github.com/abderrahimghazali/sylius-workflow-plugin) | Visual marketing automation engine for Sylius 2.x |
-| [sylius-popup-plugin](https://github.com/abderrahimghazali/sylius-popup-plugin) | Exit-intent & engagement popups for Sylius 2.x |
-| [sylius-upsell-plugin](https://github.com/abderrahimghazali/sylius-upsell-plugin) | Post-purchase upsell & cross-sell for Sylius 2.x |
-| [drupal-issue-md](https://github.com/abderrahimghazali/drupal-issue-md) | Convert Drupal.org issues to LLM-friendly Markdown |
-| [mailfleet](https://github.com/abderrahimghazali/mailfleet) | Email campaign management with AWS SES integration |
-
 ### Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
