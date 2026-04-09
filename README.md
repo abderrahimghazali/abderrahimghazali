@@ -48,5 +48,6 @@ Open to consulting, contract work, and technical partnerships. You can also [spo
 [![Portfolio](https://img.shields.io/badge/Portfolio-abderrahimghazali.github.io-000?logo=astro&logoColor=white)](https://abderrahimghazali.github.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/Ghazalidotdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahim-ghazali-5121b855)
+[![Discord](https://img.shields.io/badge/Discord-ghazali.dev-5865F2?logo=discord&logoColor=white)](https://discord.com/users/ghazali.dev)
 [![Drupal.org](https://img.shields.io/badge/Drupal.org-gabderrahim-0678BE?logo=drupal&logoColor=white)](https://www.drupal.org/u/gabderrahim)
 ![](https://komarev.com/ghpvc/?username=abderrahimghazali&style=pixel)
